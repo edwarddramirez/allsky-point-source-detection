@@ -1,5 +1,5 @@
 # allsky-point-source-detection
-This repo provides code for detecting point sources on a sphere (i.e., the sky) with the continuous wavelet transform. We use this tool to detect faint gamma-ray point sources from Fermi-LAT. See my skysearch repo for a pipeline.
+This repo provides code for detecting point sources on a sphere (i.e., the sky) with the continuous wavelet transform. We use this tool to detect faint gamma-ray point sources from Fermi-LAT. See my skysearch repo for a pipeline. We use the technique proposed by https://arxiv.org/pdf/astro-ph/0212578.
 
 # Installation
 Run the `environment.yml` file by running the following command on the main repo directory:
