@@ -2,9 +2,9 @@
 This repo provides code for detecting point sources on a sphere (i.e., the sky) with the continuous wavelet transform. We use this tool to detect faint gamma-ray point sources from Fermi-LAT. See my skysearch repo for a pipeline. We use the technique proposed by https://arxiv.org/pdf/astro-ph/0212578.
 
 # Notebooks
-1. `01` - Generate Data (Background Photons + Point Sources) 
-2. `02` - Point Source Detection in a Flat Region with the Continuous Wavelet Transform
-3. `03` - Partition Sky Into Approximately Flat Patches
+1. `01` - Point Source Detection in a Flat Region with the Continuous Wavelet Transform
+2. `02` - Partition Sky Into Approximately Flat Patches
+3. `03` - Generate Data in the Sphere (Background Photons + Point Sources)
 4. `04` - All-Sky Point Source Detection
 5. `05` - Results
 6. `06` - Next Steps
