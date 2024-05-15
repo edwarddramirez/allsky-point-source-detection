@@ -3,11 +3,19 @@ This repo provides code for detecting point sources on a sphere (i.e., the sky) 
 
 # Notebooks
 1. `01` - Point Source Detection in a Flat Region with the Continuous Wavelet Transform
-2. `02` - Partition Sky Into Approximately Flat Patches
-3. `03` - Generate Data in the Sphere (Background Photons + Point Sources)
-4. `04` - All-Sky Point Source Detection
-5. `05` - Results
-6. `06` - Next Steps
+   - See `/het/p4/ramirez/gcewavelets/cwt_v0.1_play/test_statistic_icwt.ipynb` and PPT files
+3. `02` - Partition Sky Into Approximately Flat Patches
+   - See most of the notebooks in `/mnt/c/Users/Edwar/OneDrive - Rutgers University/projects/pswavelets/gce/notebooks`
+5. `03` - Generate Data in the Sphere (Background Photons + Point Sources)
+   - See `/mnt/c/Users/Edwar/OneDrive - Rutgers University/projects/pswavelets/gce/notebooks/skymap_generation_.ipynb`
+   - See `/het/p4/ramirez/gcewavelets/skysearch/data`
+   - Or generate from scratch with `generate_skymap.py`
+7. `04` - All-Sky Point Source Detection
+   - Consider just going through the contents of the python files
+9. `05` - Results
+   - Consider just copy and pasting `allsky_notes_plots` and comment
+11. `06` - Next Steps
+    - Go through next steps described in different branches and in later notes
 
 # Progress (Delete Later)
 1. It is better to create the first three notebooks with `pswavelets/gce/notebooks' directory and following the notes that you have already made.
