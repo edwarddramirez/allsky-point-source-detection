@@ -1,0 +1,14 @@
+name: allsky-point-source-detection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel=6.15.2
+  - ipython_genutils
+  - jupyter=1.0.0
+  - jupyter_client=7.3.5
+  - matplotlib-inline=0.1.6
+  - pip=22.3.1
+  - python=3.9.16
+  - pip:
+    - -r requirements.txt

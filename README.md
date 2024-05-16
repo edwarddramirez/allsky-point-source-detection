@@ -28,4 +28,4 @@ Run the `environment.yml` file by running the following command on the main repo
 ```
 conda env create
 ```
-The installation works for `conda==4.14.0`. 
+The installation works for `conda==22.9.0`. 
