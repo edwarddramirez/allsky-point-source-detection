@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edwarddramirez/allsky-point-source-detection/HEAD) [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en) ![Python](https://img.shields.io/badge/python-3.9.16-blue.svg) ![Repo Size](https://img.shields.io/github/repo-size/edwarddramirez/allsky-point-source-detection) 
 
 # allsky-point-source-detection
-This repo provides code for detecting point sources on a sphere (i.e., the sky) with the continuous wavelet transform. We use this tool to detect faint gamma-ray point sources from *Fermi*-LAT. See my skysearch repo for a pipeline. We use the technique originally proposed by [arXiv:0212578](https://arxiv.org/pdf/astro-ph/0212578).
+This repo provides code for detecting point sources on a sphere (i.e., the sky) by applying the continuous wavelet transform on raw count data. We use this tool to detect faint gamma-ray point sources from *Fermi*-LAT. See my skysearch repo for a pipeline. We use the technique originally proposed by [arXiv:0212578](https://arxiv.org/pdf/astro-ph/0212578).
 
 # Notebooks
 1. `01_ps_detection_cwt_flat.ipynb` - Point Source Detection in a Flat Region with the Continuous Wavelet Transform
